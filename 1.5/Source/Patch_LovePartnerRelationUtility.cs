@@ -36,7 +36,8 @@ namespace SexualityGenerator
                     yield return new CodeInstruction(OpCodes.Ldarg_0);
                     yield return new CodeInstruction(OpCodes.Ldfld, SexualityGeneratorRefs.f_Pawn_gender);
                     yield return new CodeInstruction(OpCodes.Call, SexualityGeneratorRefs.m_Utility_IsAttractedTo);
-                    yield return new CodeInstruction(OpCodes.Neg);
+                    yield return new CodeInstruction(OpCodes.Ldc_I4_1);
+                    yield return new CodeInstruction(OpCodes.Xor);
                     continue;
                 }
 
