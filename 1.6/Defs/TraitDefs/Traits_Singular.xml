@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <TraitDef>
+    <defName>Straight</defName>
+    <commonality>0.3</commonality>
+    <degreeDatas>
+      <li>
+        <label>straight</label>
+        <description>{PAWN_nameDef} is romantically attracted to people of a different gender.</description>
+      </li>
+    </degreeDatas>
+    <exclusionTags>
+      <li>SexualOrientation</li>
+    </exclusionTags>
+  </TraitDef>
+  
+  <TraitDef>
+    <defName>Heteroflexible</defName>
+    <commonality>0.1</commonality>
+    <degreeDatas>
+      <li>
+        <label>heteroflexible</label>
+        <description>{PAWN_nameDef} is romantically attracted to people of multiple genders, with a preference for a different gender.</description>
+      </li>
+    </degreeDatas>
+    <exclusionTags>
+      <li>SexualOrientation</li>
+    </exclusionTags>
+  </TraitDef>
+  
+  <TraitDef>
+    <defName>Homoflexible</defName>
+    <commonality>0.1</commonality>
+    <degreeDatas>
+      <li>
+        <label>homoflexible</label>
+        <description>{PAWN_nameDef} is romantically attracted to people of multiple genders, with a preference for {PAWN_possessive} own gender.</description>
+      </li>
+    </degreeDatas>
+    <exclusionTags>
+      <li>SexualOrientation</li>
+    </exclusionTags>
+  </TraitDef>
+	
+</Defs>

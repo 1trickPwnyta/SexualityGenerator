@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<SexualityGenerator_GayCommonality>Gay: {0_percentage}</SexualityGenerator_GayCommonality>
+	<SexualityGenerator_GayCommonalityDesc>The base chance a pawn will be gay.</SexualityGenerator_GayCommonalityDesc>
+	<SexualityGenerator_StraightCommonality>Straight: {0_percentage}</SexualityGenerator_StraightCommonality>
+	<SexualityGenerator_StraightCommonalityDesc>The base chance a pawn will be straight.</SexualityGenerator_StraightCommonalityDesc>
+	<SexualityGenerator_BisexualCommonality>Bisexual: {0_percentage}</SexualityGenerator_BisexualCommonality>
+	<SexualityGenerator_BisexualCommonalityDesc>The base chance a pawn will be bisexual.</SexualityGenerator_BisexualCommonalityDesc>
+	<SexualityGenerator_AsexualCommonality>Asexual: {0_percentage}</SexualityGenerator_AsexualCommonality>
+	<SexualityGenerator_AsexualCommonalityDesc>The base chance a pawn will be asexual.</SexualityGenerator_AsexualCommonalityDesc>
+	<SexualityGenerator_HeteroflexibleCommonality>Heteroflexible: {0_percentage}</SexualityGenerator_HeteroflexibleCommonality>
+	<SexualityGenerator_HeteroflexibleCommonalityDesc>The base chance a pawn will be heteroflexible.</SexualityGenerator_HeteroflexibleCommonalityDesc>
+	<SexualityGenerator_HomoflexibleCommonality>Homoflexible: {0_percentage}</SexualityGenerator_HomoflexibleCommonality>
+	<SexualityGenerator_HomoflexibleCommonalityDesc>The base chance a pawn will be homoflexible.</SexualityGenerator_HomoflexibleCommonalityDesc>
+	<SexualityGenerator_NoteLeftoverPoints>Note: Leftover percentage points will automatically be allotted to Bisexual.</SexualityGenerator_NoteLeftoverPoints>
+	<SexualityGenerator_RestoreDefaultSettings>Restore default settings</SexualityGenerator_RestoreDefaultSettings>
+</LanguageData>
